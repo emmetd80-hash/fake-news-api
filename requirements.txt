@@ -1,0 +1,9 @@
+Flask
+gunicorn
+textblob
+joblib
+trafilatura
+requests
+scikit-learn
+numpy
+scipy
